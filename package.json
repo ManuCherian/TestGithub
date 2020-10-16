@@ -1,0 +1,9 @@
+{
+  "name": "test-github",
+  "version": "0.0.0",
+  "description": "TestGithub",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
